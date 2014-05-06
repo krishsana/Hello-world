@@ -1,0 +1,10 @@
+In your user bar at the top right of any page, click the Create a New Repo button
+Dashboard context switcherSelect the account you wish to create the repository on
+Create repository fieldType a name for your repository, and an optional description.
+You can choose to to make the repository either public or private. Public repositories are visible to 
+the public, while private repositories are only accessible to you, and people you share them with.
+There's a number of optional items you can pre-populate your repository with:
+You can create a README, which is a document describing your project.
+You can create a .gitignore file, which is a set of ignore rules.
+You can choose to add a software license for your project.
+When you're finished, click Create repository.
